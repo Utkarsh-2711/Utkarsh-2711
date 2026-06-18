@@ -30,7 +30,6 @@ Passionate **MERN Stack Developer** building fast, reliable, and user‑first we
 
 - 🚀 **Goal:** To build scalable applications that solve real-world problems and contribute heavily to open source.
 - 📚 **Always Learning:** Exploring new testing frameworks and advanced backend architectures.
-- 🎮 **Off-screen:** [Add a quick hobby here, e.g., Reading tech blogs, gaming, or traveling!]
 
 ---
 
