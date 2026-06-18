@@ -77,20 +77,5 @@
 
 ---
 
-### 🚀 Interactive Project Showcase
-
-*Click on the cards to explore the repositories!*
-
-<div align="center">
-  <!-- Replace YOUR_REPO_NAME with the actual names of your GitHub repositories -->
-  <a href="https://github.com/Utkarsh-2711/YOUR_REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkarsh-2711&repo=YOUR_REPO_NAME_1&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Utkarsh-2711/YOUR_REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkarsh-2711&repo=YOUR_REPO_NAME_2&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 2" />
-  </a>
-</div>
-
----
 
 
