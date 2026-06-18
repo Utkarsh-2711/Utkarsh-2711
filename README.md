@@ -93,31 +93,4 @@
 
 ---
 
-### 📈 GitHub Analytics
 
-<div align="center">
-  <details>
-    <summary><b>📊 View My Coding Stats</b></summary>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-2711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=Utkarsh-2711&theme=radical&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-2711&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </details>
-</div>
-
----
-
-### 📬 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-</div>
-
-<br>
-<div align="center">
-  <i>⭐ If you found my profile interesting, feel free to drop a star on my repos! ⭐</i>
-</div>
