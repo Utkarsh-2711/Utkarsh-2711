@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Utkarsh!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full‑Stack%20Developer&descAlignY=55&descAlign=62" alt="Header" />
+  <a href="https://github.com/Utkarsh-2711">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Utkarsh%20Prajapati!%20👋&fontSize=45&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=55&descAlign=62" alt="Header" />
+  </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Utkarsh-2711">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React,+Node.js+%26+Next.js+Enthusiast;Building+Fast+%26+Reliable+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+Fast+%26+Reliable+Web+Apps;Python,+C%2B%2B+%26+JavaScript" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,61 +17,93 @@
 
 ---
 
-### ✨ About Me
+### 🕵️‍♂️ Discover More About Me
 
-Passionate **Full‑Stack Developer** building fast, reliable, and user‑first web apps. I love shipping features end‑to‑end—crafting clean UIs, designing robust APIs, and tuning databases.
+*Click the toggles below to reveal more!*
 
-- 🔭 Currently building: **[Your Current Project Name]**
-- 🌱 Learning: **NestJS, AWS, and Docker**
-- 🤝 Open to: **Open-source collaborations & freelance opportunities**
-- 📫 Reach me at: **[Your Email]** | **[Your LinkedIn]**
+<details>
+  <summary><b>✨ About Me</b></summary>
+  <br>
+  Passionate <b>MERN Stack Developer</b> building fast, reliable, and user‑first web apps. I love shipping features end‑to‑end—crafting clean UIs, designing robust APIs, and managing databases.
+  <br><br>
+  <ul>
+    <li>🔭 Currently building: <b>Full-Stack MERN Applications</b></li>
+    <li>🌱 Learning: <b>React.js (Advanced Concepts & Best Practices)</b></li>
+    <li>🌍 Based in: <b>Ahmedabad, India</b></li>
+    <li>🤝 Open to: <b>Developer roles & Open-source collaborations</b></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🎯 My Goals & Hobbies</b></summary>
+  <br>
+  <ul>
+    <li>🚀 <b>Goal:</b> To build scalable applications that solve real-world problems and contribute heavily to open source.</li>
+    <li>📚 <b>Always Learning:</b> Exploring new testing frameworks and advanced backend architectures.</li>
+    <li>🎮 <b>Off-screen:</b> [Add a quick hobby here, e.g., Reading tech blogs, gaming, or traveling!]</li>
+  </ul>
+</details>
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-*Here is a detailed visual overview of the technologies and tools I work with daily:*
-
 <div align="center">
 
-**Frontend Development**  
+**Languages**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp&theme=dark" alt="Languages Tech Stack" />
 </a>
 
-**Backend & APIs**  
+**Frameworks & Libraries**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,express,nodejs,bootstrap,tailwind&theme=dark" alt="Frameworks Tech Stack" />
 </a>
 
-**Databases & Tools**  
+**Databases**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,docker&theme=dark" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases Tech Stack" />
+</a>
+
+**Tools & Testing**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools Tech Stack" />
+</a><br>
+<a href="https://hoppscotch.io/">
+  <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white" alt="Hoppscotch" />
 </a>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Interactive Project Showcase
 
-| Project | Description | Technologies | Links |
-| :--- | :--- | :--- | :--- |
-| **✨ Project 1** | One‑line value prop & outcomes (e.g., cut load time by 40%). | `React`, `Node.js`, `MongoDB` | [Live](#) • [Repo](#) |
-| **🔥 Project 2** | Brief what/why + key feature (auth, dashboards, etc.). | `Next.js`, `Express`, `MySQL` | [Live](#) • [Repo](#) |
-| **💡 Project 3** | Highlight API/infra/scale or UI polish. | `React`, `Express`, `Tailwind` | [Live](#) • [Repo](#) |
+*Click on the cards to explore the repositories!*
+
+<div align="center">
+  <!-- Replace YOUR_REPO_NAME with the actual names of your GitHub repositories -->
+  <a href="https://github.com/Utkarsh-2711/YOUR_REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkarsh-2711&repo=YOUR_REPO_NAME_1&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Utkarsh-2711/YOUR_REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Utkarsh-2711&repo=YOUR_REPO_NAME_2&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 2" />
+  </a>
+</div>
 
 ---
 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-2711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Utkarsh-2711&theme=radical&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-2711&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <details>
+    <summary><b>📊 View My Coding Stats</b></summary>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-2711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=Utkarsh-2711&theme=radical&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-2711&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </details>
 </div>
 
 ---
@@ -85,5 +119,5 @@ Passionate **Full‑Stack Developer** building fast, reliable, and user‑first 
 
 <br>
 <div align="center">
-  <i>⭐ If you find my work interesting, consider leaving a star! ⭐</i>
+  <i>⭐ If you found my profile interesting, feel free to drop a star on my repos! ⭐</i>
 </div>
