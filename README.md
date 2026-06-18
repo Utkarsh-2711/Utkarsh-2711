@@ -17,32 +17,20 @@
 
 ---
 
-### 🕵️‍♂️ Discover More About Me
+### ✨ About Me
 
-*Click the toggles below to reveal more!*
+Passionate **MERN Stack Developer** building fast, reliable, and user‑first web apps. I love shipping features end‑to‑end—crafting clean UIs, designing robust APIs, and managing databases.
 
-<details>
-  <summary><b>✨ About Me</b></summary>
-  <br>
-  Passionate <b>MERN Stack Developer</b> building fast, reliable, and user‑first web apps. I love shipping features end‑to‑end—crafting clean UIs, designing robust APIs, and managing databases.
-  <br><br>
-  <ul>
-    <li>🔭 Currently building: <b>Full-Stack MERN Applications</b></li>
-    <li>🌱 Learning: <b>React.js (Advanced Concepts & Best Practices)</b></li>
-    <li>🌍 Based in: <b>Ahmedabad, India</b></li>
-    <li>🤝 Open to: <b>Developer roles & Open-source collaborations</b></li>
-  </ul>
-</details>
+- 🔭 Currently building: **Full-Stack MERN Applications**
+- 🌱 Learning: **React.js (Advanced Concepts & Best Practices)**
+- 🌍 Based in: **Ahmedabad, India**
+- 🤝 Open to: **Developer roles & Open-source collaborations**
 
-<details>
-  <summary><b>🎯 My Goals & Hobbies</b></summary>
-  <br>
-  <ul>
-    <li>🚀 <b>Goal:</b> To build scalable applications that solve real-world problems and contribute heavily to open source.</li>
-    <li>📚 <b>Always Learning:</b> Exploring new testing frameworks and advanced backend architectures.</li>
-    <li>🎮 <b>Off-screen:</b> [Add a quick hobby here, e.g., Reading tech blogs, gaming, or traveling!]</li>
-  </ul>
-</details>
+### 🎯 My Goals & Hobbies
+
+- 🚀 **Goal:** To build scalable applications that solve real-world problems and contribute heavily to open source.
+- 📚 **Always Learning:** Exploring new testing frameworks and advanced backend architectures.
+- 🎮 **Off-screen:** [Add a quick hobby here, e.g., Reading tech blogs, gaming, or traveling!]
 
 ---
 
@@ -74,8 +62,3 @@
 </a>
 
 </div>
-
----
-
-
-
