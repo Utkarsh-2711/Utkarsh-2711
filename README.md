@@ -10,10 +10,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Utkarsh-2711"><img src="https://komarev.com/ghpvc/?username=Utkarsh-2711&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" /></a>
-  <a href="https://github.com/Utkarsh-2711?tab=followers"><img src="https://img.shields.io/github/followers/Utkarsh-2711?label=Followers&style=flat-square&color=blueviolet" alt="GitHub followers" /></a>
-</div>
 
 ---
 
